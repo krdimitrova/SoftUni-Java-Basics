@@ -9,6 +9,7 @@ public class P5_GodzillaVsKong {
         double budget = Double.parseDouble(scanner.nextLine());
         int statists = Integer.parseInt(scanner.nextLine());
         double priceForOutfit = Double.parseDouble(scanner.nextLine());
+
         double totalPriceForOutfit = priceForOutfit * statists;
         double decoration = budget * 0.10;
         double totalPrice = totalPriceForOutfit + decoration;
