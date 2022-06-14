@@ -1,0 +1,12 @@
+package Lecture_04_ForLoop._02_Exercise;
+
+public class P1_NumbersEndingIn7 {
+    public static void main(String[] args) {
+
+        for (int i = 7; i <= 997; i++){
+            if (i % 10 == 7) {
+                System.out.println(i);
+            }
+        }
+    }
+}
