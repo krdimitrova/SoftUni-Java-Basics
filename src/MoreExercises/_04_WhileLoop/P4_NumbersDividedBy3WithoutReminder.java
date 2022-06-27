@@ -1,4 +1,4 @@
-package MoreExercises._03_WhileLoop;
+package MoreExercises._04_WhileLoop;
 
 public class P4_NumbersDividedBy3WithoutReminder {
     public static void main(String[] args) {

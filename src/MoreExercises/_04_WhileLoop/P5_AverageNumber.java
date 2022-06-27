@@ -1,4 +1,4 @@
-package MoreExercises._03_WhileLoop;
+package MoreExercises._04_WhileLoop;
 
 import java.util.Scanner;
 
